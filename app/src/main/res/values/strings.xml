@@ -3,4 +3,5 @@
     <string name="start">Start</string>
     <string name="cancel">Cancel</string>
     <string name="description">Click the start button to start the sms checking task or click the cancel button to cancel the sms checking task</string>
+    <string name="input_url">Input url server ...</string>
 </resources>
